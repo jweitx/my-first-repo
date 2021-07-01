@@ -1,4 +1,4 @@
 # my-first-repo
 Learn GitHub
 
-More comment later. This file was modified locally.
+THis line was modified manually during conflict resolution.
